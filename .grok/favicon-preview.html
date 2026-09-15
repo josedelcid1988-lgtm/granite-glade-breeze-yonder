@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  html, body { margin:0; background:#1a1a1a; }
+  .row { display:flex; gap:24px; padding:24px; align-items:flex-end; }
+  .cell { text-align:center; color:#888; font: 12px sans-serif; }
+  img { image-rendering: pixelated; display:block; background:#fff; }
+  .s16 img { width:16px; height:16px; }
+  .s32 img { width:32px; height:32px; }
+  .s64 img { width:64px; height:64px; }
+  .s128 img { width:128px; height:128px; }
+</style>
+</head>
+<body>
+  <div class="row">
+    <div class="cell s16"><img src="favicon.svg" width="16" height="16"><div>16</div></div>
+    <div class="cell s32"><img src="favicon.svg" width="32" height="32"><div>32</div></div>
+    <div class="cell s64"><img src="favicon.svg" width="64" height="64"><div>64</div></div>
+    <div class="cell s128"><img src="favicon.svg" width="128" height="128"><div>128</div></div>
+  </div>
+</body>
+</html>

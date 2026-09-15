@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Skyryse BMS",
+      "hasCanvas": false,
+      "bodyTextLen": 3854,
+      "bodyTextHash": "a85d1658d623550f9e708d71588167e12cbaba778b12a571d7796dc047a34218",
+      "bodyTextPrefix": "SKYRYSE BMS · QM-001 G Process map Dashboard Documents Quality m",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Skyryse BMS",
+      "hasCanvas": false,
+      "bodyTextLen": 3718,
+      "bodyTextHash": "c1dfdb959e5e3adc467fd5e350ea1a635fb69bba8b9f337197959ff6a043a8f5",
+      "bodyTextPrefix": "SKYRYSE Search procedures, stages, CAPA QM-001 REV G · FIGURE 2 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
